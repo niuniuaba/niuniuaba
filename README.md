@@ -1,6 +1,3 @@
-![niuniu's workbench](https://raw.githubusercontent.com/niuniuaba/niuniuaba/master/images/bench.jpg)
-
-
 <pre>
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
@@ -45,3 +42,5 @@ Bachelor's in Mechatronics | Southwest Jiaotong University
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niuniuaba&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
 </details>
+
+![niuniu's workbench](https://raw.githubusercontent.com/niuniuaba/niuniuaba/main/images/bench.jpg)
